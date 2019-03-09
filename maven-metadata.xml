@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>mortgage-process</groupId>
+  <artifactId>mortgage-process</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190309150340</lastUpdated>
+  </versioning>
+</metadata>
